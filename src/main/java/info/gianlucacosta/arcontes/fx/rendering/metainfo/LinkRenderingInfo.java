@@ -25,8 +25,6 @@ import javafx.scene.paint.Color;
 
 /**
  * Metainfo describing how to render a link
- * <p>
- * * @author Gianluca Costa
  */
 public interface LinkRenderingInfo extends MetaInfo {
 
